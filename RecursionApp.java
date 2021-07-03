@@ -104,8 +104,7 @@ public class RecursionApp {
         }
     }
 
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) {      
         RecursionApp rec = new RecursionApp();
         System.out.println(rec.countHi("hippopotamushi"));
 
